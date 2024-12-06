@@ -1,6 +1,6 @@
 # Gerenciador de Usuários com Node.js e Prisma
 
-Este projeto é uma API RESTful criada em Node.js com integração ao Prisma como ORM. Ele permite realizar operações CRUD (Criar, Ler, Atualizar e Deletar) em um banco de dados para gerenciar informações de usuários.
+Este projeto é uma API  criada em Node.js com integração ao Prisma como ORM. Ele permite realizar operações CRUD (Criar, Ler, Atualizar e Deletar) em um banco de dados para gerenciar informações de usuários.
 
 ## 🚀 Funcionalidades
 
